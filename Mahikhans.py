@@ -9,4 +9,4 @@ if bit == '64bit':
     import Sarfraz
     
 elif bit == '32bit':
-    import Sarfraz32
+    import Mahi khan
